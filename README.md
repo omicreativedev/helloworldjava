@@ -1,1 +1,1 @@
-#TEST README
+I've created this repository in the process of self-learning how to 
